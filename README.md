@@ -1,2 +1,2 @@
 # PlantTraits2024---FGVC11
-My ML and DL POC attempt at solving the PlantTraits2024 - FGVC11 kaggle challenge
+My ML and DL POC attempt at solving the PlantTraits2024 - FGVC11 kaggle challenge. The notebook contains, exploratory analysis, data preprocessing steps, initial XGBoost model implementation o nonly csv data and a CNN model implemented on image dataset with results. The link to know more about the competition and access the dataset : https://www.kaggle.com/competitions/planttraits2024/overview 
